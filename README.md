@@ -1,5 +1,12 @@
 # Blur16x9-GUI
 
+![GitHub Downloads](https://img.shields.io/github/downloads/jackdhdhdjd/Blur16x9-GUI/total?style=for-the-badge&label=Downloads)
+
+將直式影片轉換成 16:9 模糊背景影片。
+
+
+# Blur16x9-GUI
+
 將直式影片轉換成 16:9 模糊背景影片。
 
 ## 功能
